@@ -4,7 +4,6 @@ data/
 coverage/
 playwright-report/
 test-results/
-.env
 .worktrees/
 .DS_Store
 *.log
@@ -33,3 +32,4 @@ backend/logs/*
 # Turborepo
 .turbo
 .gstack/
+config.bat
